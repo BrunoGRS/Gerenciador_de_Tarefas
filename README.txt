@@ -2,6 +2,15 @@
 
 Gerenciador de tarefas feito em node js para treinar conteúdos de classes, array ( métodos ), listagem de dados e lógica de programação.
 
+#Tecnologias
+
+- Node js
+- Express
+- Mongoose
+- Mongo DB
+- Nodemon
+- Insomnia
+
 #Funções
 
 - Cadastrar Tarefa
