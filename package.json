@@ -1,6 +1,19 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^8.1.1"
   }
+=======
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC"
+>>>>>>> 08f94b30021cf503554c7f9918ea548bac4d6078
 }
