@@ -1,6 +1,6 @@
 # Gerenciardor_Tarefas
 
-Gerenciador de tarefas feito em node js para treinar conteúdos de classes, array ( métodos ), listagem de dados e lógica de programação.
+API para um Gerenciador de Tarefas.
 
 #Tecnologias
 
